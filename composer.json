@@ -1,0 +1,6 @@
+{
+    "name": "sf_di/amo-crm",
+    "require": {
+        "amocrm/amocrm-api-library": "^0.4.6"
+    }
+}
